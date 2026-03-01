@@ -1,0 +1,29 @@
+[[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "Trolling Lures"
+  pageRef = "trolling-lures"
+  weight = 20
+
+[[main]]
+  name = "OEM / Private Label"
+  pageRef = "oem-private-label"
+  weight = 30
+
+[[main]]
+  name = "Manufacturing"
+  pageRef = "manufacturing"
+  weight = 40
+
+[[main]]
+  name = "Quality Control"
+  pageRef = "quality-control"
+  weight = 50
+
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 60
