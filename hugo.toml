@@ -1,0 +1,8 @@
+baseURL = "https://kmucutie-trolling.netlify.app/"
+languageCode = "en"
+title = "KMUCUTIE | Trolling Lure OEM"
+enableRobotsTXT = true
+
+[module]
+  [[module.imports]]
+    path = "github.com/nunocoracao/blowfish/v2"
