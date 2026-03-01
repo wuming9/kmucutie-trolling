@@ -1,1 +1,28 @@
-description = "KMUCUTIE is an OEM & private label manufacturer focused on offshore saltwater trolling lures. Stable QC, scalable production, custom colors, packaging, and hook upgrades for overseas brands and distributors."
+# --- Global (OEM website style) ---
+enableSearch = false
+defaultAppearance = "light"
+autoSwitchAppearance = true
+
+# Header/Footer
+[header]
+  layout = "fixed-fill-blur"
+
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = false
+  showScrollToTop = true
+
+# --- Homepage (OEM, not blog) ---
+[homepage]
+  layout = "page"
+  showRecent = false
+  showRecentItems = 0
+  showMoreLink = false
+
+# --- Article (reduce blog signals) ---
+[article]
+  showDate = false
+  showAuthor = false
+  showBreadcrumbs = false
+  showDraftLabel = false
