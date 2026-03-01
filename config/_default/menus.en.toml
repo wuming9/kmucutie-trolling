@@ -27,3 +27,18 @@
   name = "Contact"
   pageRef = "contact"
   weight = 60
+
+[[footer]]
+  name = "OEM / Private Label"
+  pageRef = "oem-private-label"
+  weight = 10
+
+[[footer]]
+  name = "Quality Control"
+  pageRef = "quality-control"
+  weight = 20
+
+[[footer]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 30
