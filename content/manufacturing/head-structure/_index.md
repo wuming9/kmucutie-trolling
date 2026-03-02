@@ -6,7 +6,7 @@ date: 2026-03-02
 draft: false
 ---
 
-# Trolling Lure Head Structure Options
+## Overview
 
 The head structure determines the stability, diving angle, and long-distance trolling performance of offshore lures.
 
