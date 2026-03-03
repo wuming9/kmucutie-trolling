@@ -70,7 +70,7 @@ Rig systems demonstrate stronger OEM capability because they require **layout re
 > Use this diagram area to show how your products are organized into a clear OEM structure.  
 > Replace the placeholder image later with a simple graphic (PNG/SVG).
 
-![TODO: Product Structure Diagram](TODO-images/product-structure-diagram.png)
+![KMUCUTIE Offshore Trolling OEM Structure](/images/product-structure.svg)
 
 **Diagram note (for future graphic):**
 - System 01: Head Lure Series → Resin / Acrylic / Bullet / Cedar Plug / Feather & Teaser
