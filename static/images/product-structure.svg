@@ -1,0 +1,66 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg width="1200" height="720" viewBox="0 0 1200 720" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="KMUCUTIE Offshore Trolling OEM Structure Diagram">
+  <style>
+    .title { font: 700 28px Arial, Helvetica, sans-serif; fill: #111; }
+    .subtitle { font: 400 14px Arial, Helvetica, sans-serif; fill: #333; }
+    .h { font: 700 18px Arial, Helvetica, sans-serif; fill: #111; }
+    .t { font: 400 15px Arial, Helvetica, sans-serif; fill: #111; }
+    .box { fill: none; stroke: #111; stroke-width: 2; }
+    .thin { fill: none; stroke: #111; stroke-width: 1.5; }
+    .dash { fill: none; stroke: #111; stroke-width: 1.5; stroke-dasharray: 6 6; }
+    .muted { fill: none; stroke: #666; stroke-width: 1.5; }
+  </style>
+
+  <!-- Header -->
+  <text x="60" y="70" class="title">KMUCUTIE Offshore Trolling OEM Structure</text>
+  <text x="60" y="98" class="subtitle">Two core product systems + one OEM configuration layer (manufacturing-first, brand-oriented)</text>
+
+  <!-- Outer frame -->
+  <rect x="40" y="40" width="1120" height="640" class="thin"></rect>
+
+  <!-- System 01 box -->
+  <rect x="80" y="140" width="500" height="360" class="box"></rect>
+  <text x="100" y="175" class="h">System 01 — Head Lure Series</text>
+  <line x1="80" y1="195" x2="580" y2="195" class="thin"></line>
+
+  <!-- System 01 items -->
+  <text x="110" y="235" class="t">• Resin Head Series</text>
+  <text x="110" y="270" class="t">• Acrylic Head Series</text>
+  <text x="110" y="305" class="t">• Bullet Head Series</text>
+  <text x="110" y="340" class="t">• Feather &amp; Teaser Series</text>
+  <text x="110" y="375" class="t">• Cedar Plug Series</text>
+
+  <!-- System 02 box -->
+  <rect x="620" y="140" width="500" height="360" class="box"></rect>
+  <text x="640" y="175" class="h">System 02 — Trolling Rig Systems</text>
+  <line x1="620" y1="195" x2="1120" y2="195" class="thin"></line>
+
+  <!-- System 02 items -->
+  <text x="650" y="235" class="t">• Daisy Chain Assemblies</text>
+  <text x="650" y="270" class="t">• Spreader Bar Systems</text>
+  <text x="650" y="305" class="t">• Teaser Bird Modules</text>
+  <text x="650" y="340" class="t">• Flash / Squid / Soft-body Modules</text>
+
+  <!-- Connector arrows to OEM layer -->
+  <line x1="330" y1="500" x2="330" y2="545" class="muted"></line>
+  <polygon points="330,555 322,545 338,545" fill="#666"></polygon>
+
+  <line x1="870" y1="500" x2="870" y2="545" class="muted"></line>
+  <polygon points="870,555 862,545 878,545" fill="#666"></polygon>
+
+  <!-- OEM layer box -->
+  <rect x="80" y="560" width="1040" height="90" class="box"></rect>
+  <text x="100" y="595" class="h">OEM Configuration Layer</text>
+  <line x1="80" y1="610" x2="1120" y2="610" class="thin"></line>
+
+  <!-- OEM layer tags -->
+  <text x="110" y="640" class="t">Skirt Options</text>
+  <text x="300" y="640" class="t">Hook Upgrade Options</text>
+  <text x="540" y="640" class="t">Color Series Planning</text>
+  <text x="780" y="640" class="t">Packaging Integration</text>
+  <text x="1010" y="640" class="t" text-anchor="end">Controlled Batch Production</text>
+
+  <!-- Optional note box (engineering style) -->
+  <rect x="80" y="515" width="1040" height="30" class="dash"></rect>
+  <text x="100" y="536" class="subtitle">Note: Product pages describe series and systems. OEM layer defines repeatable configuration rules for long-term supply.</text>
+</svg>
