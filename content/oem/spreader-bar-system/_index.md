@@ -140,4 +140,33 @@ Minimum order quantity depends on configuration complexity.
 
 ---
 
+## Optional Surface Teaser Bird Module
+
+The 5-inch teaser bird is commonly integrated into spreader bar systems to create surface disturbance.
+
+Structural features:
+
+- Through-body stainless steel wire reinforcement
+- Heavy-duty corrosion-resistant components
+- Integrated swivel for torque control
+- Balanced wing structure for stable tracking
+
+Available color options:
+
+- Blue
+- Dark green
+- Lime green
+- Bright yellow
+- Purple
+- White
+- Pink
+- Black
+- Rainbow
+
+Bird modules are assembled according to OEM layout configuration and can be integrated into complete spreader bar systems or daisy chain assemblies.
+
+Designed for offshore saltwater durability.
+
+---
+
 For OEM cooperation inquiries, please contact us with your intended bar type and teaser layout requirements.
