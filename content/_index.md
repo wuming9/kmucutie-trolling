@@ -1,20 +1,20 @@
 ---
-title: "Offshore Trolling Lure OEM Partner | KMUCUTIE"
-description: "KMUCUTIE supports offshore fishing brands with structured OEM manufacturing for trolling lure product lines. Stable supply, skilled assembly, and long-term cooperation."
+title: "Offshore Trolling Lure OEM & Private Label Supplier | KMUCUTIE"
+description: "KMUCUTIE supports offshore fishing brands with structured OEM production of trolling lures, spreader bars, and daisy chain systems. Stable supply for distributors and private label programs."
 layout: "home"
 draft: false
 ---
 
 # Supporting Offshore Fishing Brands  
-### Structured OEM Manufacturing for Offshore Trolling Product Lines  
+### Structured OEM Production for Long-Term Supply  
 
 KMUCUTIE operates as a focused offshore trolling lure OEM partner.  
-We support brand owners and distributors in building stable, repeatable product lines with controlled batch production and skilled assembly.
+We support fishing brands and distributors in building stable, repeatable product lines with controlled batch production and skilled assembly.
 
-Stable supply. Structured development. Long-term cooperation.
+Our priority is long-term cooperation rather than short-term trading.
 
 [Explore OEM Capabilities](/oem/)  
-[Start OEM Inquiry](/oem/oem-cooperation/)
+[Start OEM Cooperation](/oem/oem-cooperation/)
 
 ---
 
@@ -31,33 +31,33 @@ We specialize exclusively in offshore trolling lure manufacturing:
 - Cedar Plug Series  
 
 We do not operate as a retail platform.  
-Our production structure is built for bulk OEM supply.
+Our production structure is designed for OEM and bulk supply.
 
 ---
 
 ## Why Brands Work With Us
 
 ### Controlled Batch Production  
-Repeat orders require consistency.  
-We operate under defined production tolerances to maintain stable structure, weight, and rigging specifications across batches.
+Repeat orders require structural consistency.  
+We operate under defined tolerances to maintain stable head dimensions, weight balance, and rigging specifications across batches.
 
 ### Skilled Manual Assembly  
-Offshore trolling lures require experienced handling.  
-Our team performs resin finishing, skirt trimming, crimp rigging, and final inspection under controlled assembly standards.
+Offshore trolling lures demand experienced assembly.  
+Our team handles resin finishing, skirt trimming, crimp rigging, and final inspection under controlled procedures.
 
 ### Private Label Integration  
 We support brand growth through:
 
 - Custom color development  
-- Logo packaging  
+- Logo packaging integration  
 - Hook configuration options  
 - Structured product line planning  
 
-### Mold Development Support  
+### Mold Development Capability  
 For qualified OEM projects, we provide:
 
-- New head mold development  
-- Weight and balance adjustments  
+- Custom head mold development  
+- Weight and balance adjustment  
 - Prototype sampling  
 
 ---
@@ -65,19 +65,16 @@ For qualified OEM projects, we provide:
 ## How We Work
 
 1. Select structure and configuration  
-2. Confirm sample  
-3. Approve specifications  
-4. Start batch production  
-5. Maintain repeat supply  
-
-Our goal is long-term stability rather than short-term trading.
+2. Confirm sample and specifications  
+3. Approve production plan  
+4. Begin controlled batch production  
+5. Maintain stable repeat supply  
 
 ---
 
 ## Built for Long-Term Cooperation
 
-KMUCUTIE is not a trading intermediary.  
-We operate as a dedicated offshore trolling lure OEM manufacturer focused on structured supply for serious brands and distributors.
+KMUCUTIE operates as a dedicated offshore trolling lure OEM manufacturer focused on structured supply for serious brands and distributors.
 
 If you are planning to build or expand your offshore trolling product line, we welcome structured cooperation discussions.
 
