@@ -1,91 +1,139 @@
 ---
-title: "Offshore Trolling Lures | Product Structure & OEM Series"
-description: "KMUCUTIE offshore trolling lure OEM product structure. Two core systems: Head Lure Series and Trolling Rig Systems. Built for brand development and long-term supply."
-layout: "single"
+title: "Offshore Trolling Lures | OEM Series Structure"
+description: "KMUCUTIE offshore trolling lure OEM structure including head lure series and trolling rig systems for fishing brands and distributors."
 draft: false
 ---
 
-# Offshore Trolling Lures  
+# Offshore Trolling Lures
 ### Product Structure for Brand OEM & Long-Term Supply
 
-KMUCUTIE focuses exclusively on offshore trolling lure OEM production.  
-Instead of listing individual SKUs, we organize products into **repeatable series** that help brands build stable product lines and maintain consistent supply.
+KMUCUTIE focuses exclusively on **offshore trolling lure OEM production**.
+
+Instead of listing individual SKUs, we organize products into **repeatable series structures** that help fishing brands build stable product lines and maintain consistent long-term supply.
 
 ---
 
-## What Makes Our Trolling Lures Different
+# What Makes Our Trolling Lures Different
 
-- **Series-based production** for repeat orders and stable supply  
-- **Skilled manual assembly** (finishing, skirt trimming, rigging, inspection)  
-- **Configurable structures** (head type, skirt materials, hook upgrade options)  
-- **Brand integration** (color planning, packaging, private label support)  
-- **System compatibility** for offshore trolling spreads (rigs and assemblies)
-
----
-
-## Two Core Product Systems
-
-> Below are the two systems that define our product structure.  
-> Each system can be produced as private label series with consistent configuration control.
+- Series-based production designed for repeat orders  
+- Skilled manual assembly (resin finishing, skirt trimming, rigging inspection)  
+- Configurable lure structures (head type, skirt material, hook upgrades)  
+- Private label integration (color planning, packaging, brand programs)  
+- System compatibility for offshore trolling spreads
 
 ---
 
-### System 01 — Head Lure Series (Core Product Line)
+# System 01 — Head Lure Series
 
-**Best for brands building a stable offshore trolling lure lineup.**  
-This system covers the core head + skirt lure categories used as standalone trolling lures or as part of larger trolling spreads.
+This is the **core trolling lure product line** used by most offshore fishing brands.
 
-**Typical configuration scope:**
-- Head types: Resin / Acrylic / Bullet / Copper (by project)
-- Size ranges: 6.5" – 11.5" (series-based)
-- Skirt materials: Nylon / PVC / mixed layers
-- Rigging: unrigged / single hook / double hook (upgrade options)
-- Packaging: bulk / OPP / mesh / private label
+These lures are typically used as **standalone trolling baits** or integrated into larger trolling spreads.
 
-**Image placeholder:**  
-![TODO: Head Lure Series image](TODO-images/head-lure-series.jpg)
+![Resin Head Offshore Trolling Lure](/images/trolling-lures/Resin-Head-Trolling-Lure.jpg)
+
+Typical configuration scope:
+
+Head Types  
+Resin / Acrylic / Bullet / Copper / Spray Head
+
+Size Range  
+6.5" – 11.5" structured lure series
+
+Skirt Materials  
+Nylon / PVC / layered skirt combinations
+
+Rigging Options  
+
+- Unrigged
+- Single hook rig
+- Double hook rig
+- Heavy duty hook upgrade
+
+Packaging Options  
+
+- Bulk supply
+- OPP packaging
+- Mesh packaging
+- Private label packaging
+
+Example head structures:
+
+![Acrylic Head Offshore Trolling Lure](/images/trolling-lures/Acrylic-Head -Trolling-Lure.jpg)
+
+![Copper Bullet Head Offshore Lure](/images/trolling-lures/Copper-Bullet -Head-Trolling Lure.jpg)
+
+![Copper Spray Head Offshore Lure](/images/trolling-lures/Copper-Spray-Head-Trolling-Lure.jpg)
+
+![Soft Head Offshore Trolling Lure](/images/trolling-lures/Soft-Head-Troling-Lure.jpg)
 
 ---
 
-### System 02 — Trolling Rig Systems (Spreads & Assemblies)
+# System 02 — Offshore Trolling Rig Systems
 
-**Best for brands and distributors offering complete trolling spread components.**  
-This system focuses on assembled products that require layout control and consistency.
+Rig systems are designed for **complete offshore trolling spread setups**.
 
-Includes:
-- Daisy Chain Systems
-- Spreader Bar Assemblies
-- Teaser birds, squid bodies, flashers as integrated modules (by layout)
+These products require **precise layout balance and stronger rigging control** compared with standalone lures.
 
-**Why it matters:**  
-Rig systems demonstrate stronger OEM capability because they require **layout repeatability**, **rigging strength control**, and **pre-shipment assembly inspection**.
+![Spreader Bar Offshore Teaser System](/images/trolling-lures/Spread-Bar-Teasers.jpg)
 
-**Image placeholder:**  
-![TODO: Rig Systems image](TODO-images/rig-systems.jpg)
+Typical system structures include:
+
+Daisy Chain Systems  
+Multiple teaser bodies connected in a sequence to create visual attraction in trolling spreads.
+
+![Squid Daisy Chain Offshore Rig](/images/trolling-lures/Squid-Daisy-Chain.jpg)
+
+Bird Daisy Chain Systems  
+Surface disturbance teaser systems used to create splash and attract pelagic fish.
+
+![Feather Bird Daisy Chain](/images/trolling-lures/Feather-Bird-Daisy-Chain.jpg)
+
+Flying Bird Rig Variants  
+Used as teaser modules within offshore trolling spread setups.
+
+![Flying Bird Daisy Chain](/images/trolling-lures/Flying-Bird-Daisy-Chain.jpg)
+
+Rig systems demonstrate **stronger OEM capability** because they require:
+
+- layout repeatability
+- rigging strength control
+- assembly inspection before shipment
 
 ---
 
-## Product Structure Diagram (Placeholder)
-
-> Use this diagram area to show how your products are organized into a clear OEM structure.  
-> Replace the placeholder image later with a simple graphic (PNG/SVG).
+# Product Structure Diagram
 
 ![KMUCUTIE Offshore Trolling OEM Structure](/images/product-structure.svg)
 
-**Diagram note (for future graphic):**
-- System 01: Head Lure Series → Resin / Acrylic / Bullet / Cedar Plug / Feather & Teaser
-- System 02: Rig Systems → Daisy Chain / Spreader Bar → Modules (Bird / Squid / Flasher)
+This diagram explains how KMUCUTIE organizes offshore trolling products into two structured systems:
+
+System 01 — Head Lure Series  
+Resin / Acrylic / Bullet / Feather / Teaser
+
+System 02 — Rig Systems  
+Daisy Chain / Spreader Bar → teaser modules
 
 ---
 
-## How to Start an OEM Project
+# How to Start an OEM Project
 
-We recommend starting with:
-1. Choose your target system (Head Lures / Rig Systems)  
-2. Confirm size range and series direction  
-3. Select color approach (catalog selection or custom development)  
-4. Decide rigging level (unrigged vs heavy-duty hook upgrade)  
-5. Confirm private label packaging requirements  
+Most customers begin with a simple structured process:
 
-[Explore OEM Capabilities](/oem/)  
+1️⃣ Choose your product system  
+Head Lures or Rig Systems
+
+2️⃣ Confirm size range and series direction
+
+3️⃣ Select color approach  
+Catalog colors or custom development
+
+4️⃣ Decide rigging configuration  
+Unrigged / Single Hook / Double Hook
+
+5️⃣ Confirm private label packaging
+
+---
+
+[Explore OEM Capabilities](/oem/)
+
 [Start OEM Cooperation](/oem/oem-cooperation/)
